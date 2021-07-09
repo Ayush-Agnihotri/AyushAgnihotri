@@ -13,10 +13,10 @@
 
 <p align="center"> <a href="https://github.com/QWERTY050703/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=QWERTY050703&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="Ayush Agnihotri" /></a> </p><br>
 
-<h5 align="center">I'm a full stack web developer from India who is passionate about making open-source projects that are more accessible, making websites for furture, creating technology to elevate people, and building community. Some technologies I enjoy working with include HTML, CSS and Javascript for frontend devleopment and Node JS, ReactJS, VueJs for backend development. You can find enormous and gigantic projects in my repository.</h5> <br> 
+<h4 align="center">I'm a full stack web developer from India who is passionate about making open-source projects that are more accessible, making websites for furture, creating technology to elevate people, and building community. Some technologies I enjoy working with include HTML, CSS and Javascript for frontend devleopment and Node JS, ReactJS, VueJs for backend development. You can find enormous and gigantic projects in my repository.</h4> <br> 
 
 - 🔭 I’m currently working on **CSS and Javascript Animations Effects**
-- 🌱 I’m currently learning **Phython, Java, Desgining,React js**
+- 🌱 I’m currently learning **Python, Java, Desgining,React js**
 - 👯 I’m looking to collaborate on [Private Project](#)
 - 🤝 I’m looking for help with **some javascript frameworks** [Some New Projects](#)
 - 💬 Ask me about **anything**

@@ -19,6 +19,17 @@
 - 🤝 I’m looking for help with [Some New Projects](#)
 - 💬 Ask me about **anything**
 - ⚡ Fun fact **Coffee**
+- 🔭 I’m currently working on **CSS and Javascript Animations Effects**
+
+- 🌱 I’m currently learning **React js**
+
+- 🤝 I’m looking for help with **some javascript frameworks**
+
+- 💬 Ask me about: **HTML, Css and Javascript**
+
+- 📫 How to reach me: **pranavraj1720@protonmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 
 - 📫 How to reach me **QWERTY050703@gmail.com** or [@AyushAgnihotri](https://Telegram.me/AyushAgnihotri) [ Telegram ]

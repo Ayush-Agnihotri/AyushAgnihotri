@@ -11,7 +11,7 @@
            
 <h4 align="center">Also Meet me at <a href="https://github.com/QWERTY050703"><b>Ayush Agnihotri</b></a></h4> <br>
 
-<p align="center"> <a href="https://github.com/QWERTY050703/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=proavipatil&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="Ayush Agnihotri" /></a> </p><br>
+<p align="center"> <a href="https://github.com/QWERTY050703/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=QWERTY050703&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="Ayush Agnihotri" /></a> </p><br>
 
 - 🔭 I’m currently Studying In Collage
 - 🌱 I’m currently learning **Phython, Java, Desgining**

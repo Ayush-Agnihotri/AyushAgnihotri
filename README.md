@@ -21,7 +21,7 @@
 - ⚡ Fun fact **Coffee**
 
 
-- 📫 How to reach me **itsavipatil@gmail.com** or [@AvishkarPatil](https://Telegram.me/AvishkarPatil) [ Telegram ]
+- 📫 How to reach me **QWERTY050703@gmail.com** or [@AyushAgnihotri](https://Telegram.me/AyushAgnihotri) [ Telegram ]
 
 <br><br>
 

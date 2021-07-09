@@ -15,24 +15,12 @@
 
 <h5 align="center">I'm a full stack web developer from India who is passionate about making open-source projects that are more accessible, making websites for furture, creating technology to elevate people, and building community. Some technologies I enjoy working with include HTML, CSS and Javascript for frontend devleopment and Node JS, ReactJS, VueJs for backend development. You can find enormous and gigantic projects in my repository.</h5> <br> 
 
-- 🔭 I’m currently Studying In Collage
-- 🌱 I’m currently learning **Phython, Java, Desgining**
-- 👯 I’m looking to collaborate on [Private Project](#)
-- 🤝 I’m looking for help with [Some New Projects](#)
-- 💬 Ask me about **anything**
-- ⚡ Fun fact **Coffee**
 - 🔭 I’m currently working on **CSS and Javascript Animations Effects**
-
-- 🌱 I’m currently learning **React js**
-
-- 🤝 I’m looking for help with **some javascript frameworks**
-
-- 💬 Ask me about: **HTML, Css and Javascript**
-
-- 📫 How to reach me: **QWERTY050703@gmail.com**
-
+- 🌱 I’m currently learning **Phython, Java, Desgining,React js**
+- 👯 I’m looking to collaborate on [Private Project](#)
+- 🤝 I’m looking for help with **some javascript frameworks** [Some New Projects](#)
+- 💬 Ask me about **anything**
 - ⚡ Fun fact **I think I am funny**
-
 
 - 📫 How to reach me **QWERTY050703@gmail.com** or [@AyushAgnihotri](https://Telegram.me/AyushAgnihotri) [ Telegram ]
 

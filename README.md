@@ -11,9 +11,9 @@
            
 <h4 align="center">Also Meet me at <a href="https://github.com/QWERTY050703"><b>Ayush Agnihotri</b></a></h4> <br>
 
-<h3 align="center">I'm a full stack web developer from India who is passionate about making open-source projects that are more accessible, making websites for furture, creating technology to elevate people, and building community. Some technologies I enjoy working with include HTML, CSS and Javascript for frontend devleopment and Node JS, ReactJS, VueJs for backend development. You can find enormous and gigantic projects in my repository.</h3> <br> 
-
 <p align="center"> <a href="https://github.com/QWERTY050703/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=QWERTY050703&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="Ayush Agnihotri" /></a> </p><br>
+
+<h5 align="center">I'm a full stack web developer from India who is passionate about making open-source projects that are more accessible, making websites for furture, creating technology to elevate people, and building community. Some technologies I enjoy working with include HTML, CSS and Javascript for frontend devleopment and Node JS, ReactJS, VueJs for backend development. You can find enormous and gigantic projects in my repository.</h5> <br> 
 
 - 🔭 I’m currently Studying In Collage
 - 🌱 I’m currently learning **Phython, Java, Desgining**
@@ -29,7 +29,7 @@
 
 - 💬 Ask me about: **HTML, Css and Javascript**
 
-- 📫 How to reach me: **pranavraj1720@protonmail.com**
+- 📫 How to reach me: **QWERTY050703@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 

@@ -11,9 +11,9 @@
            
 <h4 align="center">Also Meet me at <a href="https://github.com/QWERTY050703"><b>Ayush Agnihotri</b></a></h4> <br>
 
-<p align="center"> <a href="https://github.com/QWERTY050703/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=QWERTY050703&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="Ayush Agnihotri" />[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <a href="https://github.com/QWERTY050703/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=QWERTY050703&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="Ayush Agnihotri" />
 </a> </p><br>
-[![QWERTY050703's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QWERTY050703&theme=blue-green)](https://github.com/QWERTY050703/github-readme-stats)
+
 
 <h4 align="center">I'm a full stack web developer from India who is passionate about making open-source projects that are more accessible, making websites for furture, creating technology to elevate people, and building community. Some technologies I enjoy working with include HTML, CSS and Javascript for frontend devleopment and Node JS, ReactJS, VueJs for backend development. You can find enormous and gigantic projects in my repository.</h4> <br> 
 
@@ -53,3 +53,5 @@ About Me = [
 
 <p align="center">&nbsp;<a href="https://github.com/QWERTY050703"><img align="center" src="https://github-readme-stats.vercel.app/api?username=QWERTY050703&theme=algolia&show_icons=true" alt="ProAyush"/></a></p>
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=QWERTY050703&theme=blue-green)](https://github.com/QWERTY050703/github-readme-stats)

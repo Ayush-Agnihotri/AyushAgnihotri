@@ -55,3 +55,6 @@ About Me = [
 
 
 <p align="center">&nbsp;<a href="https://github.com/QWERTY050703"><img align="center" src="https://github-readme-stats.vercel.app/api?username=QWERTY050703&theme=blue-green&show_icons=true" alt="ProAyush"/></a></p>
+
+
+<p align="center">&nbsp;<a href="https://github.com/QWERTY050703"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QWERTY050703&theme=blue-green&show_icons=true" alt="ProAyush"/></a></p>

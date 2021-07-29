@@ -54,4 +54,4 @@ About Me = [
 <p align="center">&nbsp;<a href="https://github.com/QWERTY050703"><img align="center" src="https://github-readme-stats.vercel.app/api?username=QWERTY050703&theme=algolia&show_icons=true" alt="ProAyush"/></a></p>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=QWERTY050703&theme=blue-green)](https://github.com/QWERTY050703/github-readme-stats)
+<p align="center">&nbsp;[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=QWERTY050703&theme=blue-green)](https://github.com/QWERTY050703/github-readme-stats)</p>

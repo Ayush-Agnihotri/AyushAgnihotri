@@ -1,4 +1,4 @@
-<h1 align="center">Hi  &nbsp;<a href=""><img src="https://raw.githubusercontent.com/QWERTY050703/QWERTY050703/master/Hi.gif" width="48px"></a>, I'm Ayush Agnihotri</h1>
+<h1 align="center">Hi  &nbsp;<a href=""><img src="https://raw.githubusercontent.com/Ayush-Agnihotri/Ayush-Agnihotri/master/Hi.gif" width="48px"></a>, I'm Ayush Agnihotri</h1>
 
 <p align="center">
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Ayush Agnihotri" height="30" width="30" /></a>
@@ -9,9 +9,9 @@
 
 <h4 align="center" >Open-Source Profession and Always Try to Create Different🐍.</h4>
            
-<h4 align="center">Also Meet me at <a href="https://github.com/QWERTY050703"><b>Ayush Agnihotri</b></a></h4> <br>
+<h4 align="center">Also Meet me at <a href="https://github.com/Ayush-Agnihotri"><b>Ayush Agnihotri</b></a></h4> <br>
 
-<p align="center"> <a href="https://github.com/QWERTY050703/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=QWERTY050703&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="Ayush Agnihotri" />
+<p align="center"> <a href="https://github.com/Ayush-Agnihotri/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=Ayush-Agnihotri&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="Ayush Agnihotri" />
 </a> </p><br>
 
 
@@ -51,10 +51,10 @@ About Me = [
            <code><a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a></code>&nbsp;</p><br><br>
 
 
-<p align="center">&nbsp;<a href="https://github.com/QWERTY050703"><img align="center" src="https://github-readme-stats.vercel.app/api?username=QWERTY050703&theme=algolia&show_icons=true" alt="ProAyush"/></a></p>
+<p align="center">&nbsp;<a href="https://github.com/Ayush-Agnihotri"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-Agnihotri&theme=algolia&show_icons=true" alt="ProAyush"/></a></p>
 
 
-<p align="center">&nbsp;<a href="https://github.com/QWERTY050703"><img align="center" src="https://github-readme-stats.vercel.app/api?username=QWERTY050703&theme=blue-green&show_icons=true" alt="ProAyush"/></a></p>
+<p align="center">&nbsp;<a href="https://github.com/Ayush-Agnihotri"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-Agnihotri&theme=blue-green&show_icons=true" alt="ProAyush"/></a></p>
 
 
-<p align="center">&nbsp;<a href="https://github.com/QWERTY050703"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty050703&layout=compact&hide=hack&theme=blue-green&&show_icons=true" alt="ProAyush"/></a></p>
+<p align="center">&nbsp;<a href="https://github.com/Ayush-Agnihotri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Agnihotri&layout=compact&hide=hack&theme=blue-green&&show_icons=true" alt="ProAyush"/></a></p>

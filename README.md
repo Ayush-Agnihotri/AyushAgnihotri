@@ -9,7 +9,7 @@
 
 <h4 align="center" >Open-Source Profession and Always Try to Create Different🐍.</h4>
            
-<h4 align="center">Also Meet me at <a href="https://github.com/Ayush-Agnihotri"><b>Ayush Agnihotri</b></a></h4> <br>
+<h4 align="center">Also Meet me at <a href="https://mrayush.ml/contact"><b>Ayush Agnihotri</b></a></h4> <br>
 
 <p align="center"> <a href="https://github.com/Ayush-Agnihotri/"><img width="150px" height="24" src="https://komarev.com/ghpvc/?username=Ayush-Agnihotri&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="Ayush Agnihotri" />
 </a> </p><br>
@@ -24,14 +24,14 @@
 - 💬 Ask me about **anything**
 - ⚡ Fun fact **I think I am funny**
 
-- 📫 How to reach me **QWERTY050703@gmail.com** or [@AyushAgnihotri](https://Telegram.me/AyushAgnihotri) [ Telegram ]
+- 📫 How to reach me **ayushagnihotri2025@gmail.com** or [@AyushAgnihotri](https://Telegram.me/MrCoderIN) [ Telegram ]
 
 <br><br>
 
 ```py
 About Me = [
     "I'm student with noob dev labels",
-    "A know about of Python,C, C++, Html, PHP, CSS, Java",
+    "A know about of Python,C, C++, Html, PHP, CSS, Java and many more libraraies, frameworks and databases",
     "New Things with code everyday",
     "I am in my world !! 💞"
 ]
